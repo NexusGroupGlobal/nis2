@@ -235,7 +235,7 @@ handling</>
         {compliance < 60 ?
         <p style={{color: "red"}}><b>Your level of maturity to NIS2 is at {compliance}%.</b></p>
         :
-        <p style={{color: "green"}}><b>Your level of maturity to NIS2 is at {compliance}%.</b></p>
+        <p style={{color: "green"}}><b>Your level of maturity to NIS2 is at {compliance}%. &nbsp;</b></p>
         }
 
         <ProgressBar now={compliance} />

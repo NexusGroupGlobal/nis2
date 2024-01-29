@@ -85,7 +85,7 @@ function App() {
       <div></div>
 
       <div className="Cont1">
-      <h1>NIS2 compliance questionnaire</h1>
+      <h1>NIS2 test compliance questionnaire</h1>
       
       <br></br>
       <br></br>
